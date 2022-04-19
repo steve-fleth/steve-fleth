@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @steve-fleth
 - 👀 I’m interested in Opensource, FreeBSD, Python, Perl
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Unix Bourne shell scripting
 - 💞️ I’m looking to collaborate on nothing right now
 - 📫 How to reach me through github
 
